@@ -1,0 +1,107 @@
+/*body {
+   background -image: url("./IMG-20240228-WA0004.png");
+
+ background-color:black;
+} */
+/* .row{
+   background-color: chartreuse;
+} */
+.section-0{
+    background-color: #1B1C1D;
+    height:20vh;
+    width:100%;
+}
+.section-1{
+    background-color: #1B1C1D;
+    color: white;
+    height:30vh;
+    width: 100%;
+    margin-top: 0%;
+}
+ .name{
+    height:40vh;
+    width: 100%;
+    /*margin-left:20%; */
+    text-align: center;
+    
+ } 
+.section-2{
+    background-color:white;
+    height: 80vh;
+    width: 100%;
+}
+.para{
+    background-color:white;
+    margin-top:4%;
+    font-size: 10px;
+}
+.img{
+    margin-top: 25%;
+}
+.buttongrp{
+    margin-left: 280px;
+    margin-top: 30px;
+}
+.btn{
+    font-size: 12px;
+}
+.btn btn-primary{
+    
+    --bs-btn-font-weight: 400;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #{shade-color($bd-violet, 10%)};
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
+  }
+.section-3{
+    background-color: #1B1C1D;
+    height:13vh;
+    width: 100%;
+}
+.section-3.container{
+    background-color: #1B1C1D;
+}
+.text1{
+    margin-top: 5%;
+    color: white;
+}
+.section-4{
+    background-color:white;
+    height: 50vh;
+    width: 100%;
+}
+p{
+    margin: 0;
+}
+.rww{
+    margin-top: 3%;
+}
+.desktop-9-inner {
+    background-color: var(--color-white);
+    border-radius: 5px;
+    height:100%;
+    width:100%;
+    font-size: 13px;
+    border: 1px solid grey;
+    margin-top: 20px;
+    padding: 8px 0px 1px 15px;
+  }
+  .section-5{
+    background-color:white;
+    height: 70vh;
+    width: 100%;
+}
+.section-6{
+    background-color: #1B1C1D;
+    height:25vh;
+    width: 100%;
+}
+  /* .section-5.img.img-1{
+    margin-left: 50px;
+  } */
